@@ -1,0 +1,24 @@
+.home {
+  background-color: darkgray;
+}
+.title {
+  font-family: "Quicksand", sans-serif;
+}
+.body {
+  font-family: "Quicksand", sans-serif;
+}
+.data {
+  justify-content: center;
+}
+.about {
+  font-size: x-small;
+}
+.img-fluid {
+  width: auto;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+.navbar {
+  background-color: black;
+}
